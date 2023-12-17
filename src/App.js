@@ -1,5 +1,5 @@
 
-import {ClassGreeting, Greeting} from './ClassGreeting';
+import {Greeting} from './ClassGreeting';
 import './App.css';
 
 function App() {
